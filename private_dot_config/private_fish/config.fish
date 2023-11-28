@@ -1,7 +1,7 @@
 if status is-interactive
     	# Commands to run in interactive sessions can go here
-    	alias sfox='bass source /opt/ros/foxy/setup.bash'
-	alias sins='bass source install/setup.bash'
+    	# alias sfox='bass source /opt/ros/foxy/setup.bash'
+	# alias sins='bass source install/setup.bash'
 end
 
 # >>> conda initialize >>>
